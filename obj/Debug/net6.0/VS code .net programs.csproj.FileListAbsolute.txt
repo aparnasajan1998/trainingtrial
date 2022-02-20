@@ -1,0 +1,15 @@
+C:\Users\APARNS\OneDrive - Capgemini\Desktop\VS code .net programs\bin\Debug\net6.0\VS code .net programs.exe
+C:\Users\APARNS\OneDrive - Capgemini\Desktop\VS code .net programs\bin\Debug\net6.0\VS code .net programs.deps.json
+C:\Users\APARNS\OneDrive - Capgemini\Desktop\VS code .net programs\bin\Debug\net6.0\VS code .net programs.runtimeconfig.json
+C:\Users\APARNS\OneDrive - Capgemini\Desktop\VS code .net programs\bin\Debug\net6.0\VS code .net programs.dll
+C:\Users\APARNS\OneDrive - Capgemini\Desktop\VS code .net programs\bin\Debug\net6.0\ref\VS code .net programs.dll
+C:\Users\APARNS\OneDrive - Capgemini\Desktop\VS code .net programs\bin\Debug\net6.0\VS code .net programs.pdb
+C:\Users\APARNS\OneDrive - Capgemini\Desktop\VS code .net programs\obj\Debug\net6.0\VS code .net programs.csproj.AssemblyReference.cache
+C:\Users\APARNS\OneDrive - Capgemini\Desktop\VS code .net programs\obj\Debug\net6.0\VS code .net programs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APARNS\OneDrive - Capgemini\Desktop\VS code .net programs\obj\Debug\net6.0\VS code .net programs.AssemblyInfoInputs.cache
+C:\Users\APARNS\OneDrive - Capgemini\Desktop\VS code .net programs\obj\Debug\net6.0\VS code .net programs.AssemblyInfo.cs
+C:\Users\APARNS\OneDrive - Capgemini\Desktop\VS code .net programs\obj\Debug\net6.0\VS code .net programs.csproj.CoreCompileInputs.cache
+C:\Users\APARNS\OneDrive - Capgemini\Desktop\VS code .net programs\obj\Debug\net6.0\VS code .net programs.dll
+C:\Users\APARNS\OneDrive - Capgemini\Desktop\VS code .net programs\obj\Debug\net6.0\ref\VS code .net programs.dll
+C:\Users\APARNS\OneDrive - Capgemini\Desktop\VS code .net programs\obj\Debug\net6.0\VS code .net programs.pdb
+C:\Users\APARNS\OneDrive - Capgemini\Desktop\VS code .net programs\obj\Debug\net6.0\VS code .net programs.genruntimeconfig.cache
